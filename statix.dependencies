@@ -5,7 +5,7 @@
   },
   {
     "repository": "anayw2001/vendor_google_raven",
-    "target_path": "vendor/google/raven",
+    "target_path": "vendor/google_devices/raven",
     "remote": "gitlab"
   }
 ]
